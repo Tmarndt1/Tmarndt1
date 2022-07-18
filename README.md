@@ -1,4 +1,4 @@
-### Hi there 👋
+### THank you for checking out my profile 👋
 
 More time is often spent reading code than writing it therefore code should be written as simple as possible but no simpler.
 
