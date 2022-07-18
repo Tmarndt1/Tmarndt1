@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+More time is often spent reading code than writing it therefore code should be written as simple as possible but no simpler.
+
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
