@@ -9,7 +9,7 @@
   <img title="CSS3" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=csharp,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs&theme=light)](https://skillicons.dev)
 
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
