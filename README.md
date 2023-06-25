@@ -1,9 +1,11 @@
 ### Thank you for checking out my profile 👋
 
 ### Languages, Libraries, and Frameworks
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+<div style="display:flex">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
+</div>
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
