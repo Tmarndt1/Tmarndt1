@@ -5,8 +5,8 @@
   <img title="CSharp" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="50">
   <img title="Typescript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="50">
   <img title="JavaScript" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="50">
-  <img title="HTML5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html" height="50">
-  <img title="CSS3" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css" height="50">
+  <img title="HTML5" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="50">
+  <img title="CSS3" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="50">
 </div>
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
