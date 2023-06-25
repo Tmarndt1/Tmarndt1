@@ -2,7 +2,7 @@
 
 ### Languages, Libraries, and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,react,postgres,html,css,express,webpack&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,react,postgres,html,css,express,webpack,jenkins&theme=light)](https://skillicons.dev)
 
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
