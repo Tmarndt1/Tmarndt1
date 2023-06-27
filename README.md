@@ -2,7 +2,7 @@
 
 ### Languages, Libraries, and Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,react,postgres,html,css,express,webpack,jenkins&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,react,postgres,html,css,express,webpack,jenkins,electron,jest&theme=light)](https://skillicons.dev)
 
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarndt1&show_icons=true&theme=dark" alt="ardalis" />
