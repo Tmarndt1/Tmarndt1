@@ -9,11 +9,11 @@
 <div/>
 <br />
   
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarndt1&layout=compact&hide=html&theme=dark" alt="ardalis" />
 <div/>
 <br />
-  
+   -->
 <!--
 **Tmarndt1/Tmarndt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
