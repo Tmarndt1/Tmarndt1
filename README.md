@@ -4,11 +4,11 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,nodejs,react,postgres,html,css,express,webpack,jenkins,electron,jest&theme=light)](https://skillicons.dev)
 
-<div>
+<!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tmarndt1&show_icons=true&theme=dark" alt="ardalis" />
 <div/>
 <br />
-  
+   -->
 <!-- <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmarndt1&layout=compact&hide=html&theme=dark" alt="ardalis" />
 <div/>
